@@ -19,9 +19,6 @@ class HomeController extends Controller
     public function greet($name)
     {
         $age = 100;
-        // return view('greeting', [
-        //     'name' => $name
-        // ]);
         return view('greeting', compact('name', 'age'));
     }
 }
