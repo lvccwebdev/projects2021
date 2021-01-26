@@ -2,4 +2,4 @@
 
 ### Students
 
-- **[Juan dela Cruz](juan.delacruz@liham.ph)**
+- **[Juan dela Cruz](mailto:juan.delacruz@liham.ph)**
