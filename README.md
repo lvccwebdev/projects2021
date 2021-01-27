@@ -2,4 +2,5 @@
 
 ### Students
 
-- **[Jean Veras](mailto:jeanveras@student.laverdad.edu.ph)**
+- **[Juan dela Cruz](mailto:juan.delacruz@liham.ph)**
+- **[Jasper Casey Modelo](mailto:jaspercaseymodelo@student.laverdad.edu.ph)**
