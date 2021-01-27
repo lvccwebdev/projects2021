@@ -2,4 +2,4 @@
 
 ### Students
 
-- **[Justine Macabuhay](justinemacabuhay@student.laverdad.edu.ph)**
+- **[Juan dela Cruz](mailto:juan.delacruz@liham.ph)**
