@@ -2,8 +2,7 @@
 
 ### Students
 
-
 - **[Juan dela Cruz](mailto:juan.delacruz@liham.ph)**
 
-- **[Ma. Jesa Patricia Viernes](mailto:ma.jesapatriciaviernes@student.laverdad.edu.ph)**
+- **[Ma. Ariela Larosa](mailto:ma.arielalaroza@student.laverdad.edu.ph)**
 
