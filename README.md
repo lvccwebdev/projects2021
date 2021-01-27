@@ -2,4 +2,4 @@
 
 ### Students
 
-- **[Jun Jun Babera](mailto:jun-junbabera@student.laverdad.edu.ph)**
+- **[Ma. Ariela Larosa](mailto:ma.arielalaroza@student.laverdad.edu.ph)**
