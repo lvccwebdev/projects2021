@@ -2,4 +2,4 @@
 
 ### Students
 
-- **[Juan dela Cruz](mailto:juan.delacruz@liham.ph)**
+- **[Jean Veras](mailto:jeanveras@student.laverdad.edu.ph)**
