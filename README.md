@@ -14,3 +14,4 @@
 - **[Dave Sadsad](mailto:davesadsad@student.laverdad.edu.ph)**
 - **[John Kenneth Rosales](mailto:johnkennethrosales@student.laverdad.edu.ph)**
 - **[Jordan Earl Pascua](mailto:jordanearlpascua@student.laverdad.edu.ph)**
+- **[Madelyn Romero](mailto:madelynromero@student.edu.ph)**
