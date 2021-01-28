@@ -16,3 +16,4 @@
 - **[Jordan Earl Pascua](mailto:jordanearlpascua@student.laverdad.edu.ph)**
 - **[Madelyn Romero](mailto:madelynromero@student.edu.ph)**
 - **[Nehemiah I. Protacio](mailto:nehemiahprotacio@student.laverdad.edu.ph)**
+- **[Pangan Jonathan](mailto:jonthandavidpangan@student.edu.ph)**
