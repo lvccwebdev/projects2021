@@ -4,5 +4,5 @@
 
 - **[Juan dela Cruz](mailto:juan.delacruz@liham.ph)**
 
-- **[Ma. Ariela Larosa](mailto:ma.arielalaroza@student.laverdad.edu.ph)**
+- **[Jared Galzote](mailto:jaredgalzote@student.laverdad.edu.ph)**
 
