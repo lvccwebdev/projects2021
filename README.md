@@ -2,6 +2,7 @@
 
 ### Students
 
-- **[Juan dela Cruz](mailto:juan.delacruz@liham.ph)**
-**[Marco Herrera](mailto:marcoherrera@student.edu.ph)**
+
+- **[Juan Dela Cruz](mailto:juan.delacruz@liham.ph)**
+- **[Andrea Maurice De Guzman](mailto:andreamauricedg@gmail.com)**
 
