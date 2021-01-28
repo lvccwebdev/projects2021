@@ -9,3 +9,4 @@
 - **[Jerwena Tapia](mailto:jerwenatapia@student.laverdad.edu.ph)**
 - **[Melrose Cortes](mailto:melrosecortes@student.laverdad.edu.ph)**
 - **[Angel Blaze Candinato](mailto:angelblazecandinato@student.laverdad.edu.ph)**
+- **[Carlo Soleta](mailto:carlosoleta@student.laverdad.edu.ph)**
