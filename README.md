@@ -4,5 +4,5 @@
 
 - **[Juan dela Cruz](mailto:juan.delacruz@liham.ph)**
 
-- **[Ma. Ariela Larosa](mailto:ma.arielalaroza@student.laverdad.edu.ph)**
+- **[Nehemiah I. Protacio](mailto:nehemiahprotacio@student.laverdad.edu.ph)**
 
