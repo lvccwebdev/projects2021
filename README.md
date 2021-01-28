@@ -7,3 +7,4 @@
 - **[Daniel John C. Saballa](mailto:danieljohnsaballa@student.laverdad.edu.ph)**
 - **[Jun Jun Babera](mailto:jun-junbabera@student.laverdad.edu.ph)**
 - **[Jerwena Tapia](mailto:jerwenatapia@student.laverdad.edu.ph)**
+- **[Melrose Cortes](mailto:melrosecortes@student.laverdad.edu.ph)**
