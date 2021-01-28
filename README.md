@@ -14,6 +14,7 @@
 - **[Dave Sadsad](mailto:davesadsad@student.laverdad.edu.ph)**
 - **[John Kenneth Rosales](mailto:johnkennethrosales@student.laverdad.edu.ph)**
 - **[Jordan Earl Pascua](mailto:jordanearlpascua@student.laverdad.edu.ph)**
-- **[Madelyn Romero](mailto:madelynromero@student.edu.ph)**
+- **[Madelyn Romero](mailto:madelynromero@student.laverdad.edu.ph)**
 - **[Nehemiah I. Protacio](mailto:nehemiahprotacio@student.laverdad.edu.ph)**
-- **[Pangan Jonathan](mailto:jonthandavidpangan@student.edu.ph)**
+- **[Pangan Jonathan](mailto:jonthandavidpangan@student.laverdad.edu.ph)**
+- **[Justine Macabuhay](mailto:justinemacabuhay@student.laverdad.edu.ph)**
