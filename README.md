@@ -12,3 +12,4 @@
 - **[Carlo Soleta](mailto:carlosoleta@student.laverdad.edu.ph)**
 - **[Dave Sadsad](mailto:davesadsad@student.laverdad.edu.ph)**
 - **[John Kenneth Rosales](mailto:johnkennethrosales@student.laverdad.edu.ph)**
+- **[Jordan Earl Pascua](mailto:jordanearlpascua@student.laverdad.edu.ph)**
