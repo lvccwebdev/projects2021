@@ -8,3 +8,4 @@
 - **[Jun Jun Babera](mailto:jun-junbabera@student.laverdad.edu.ph)**
 - **[Jerwena Tapia](mailto:jerwenatapia@student.laverdad.edu.ph)**
 - **[Melrose Cortes](mailto:melrosecortes@student.laverdad.edu.ph)**
+- **[Angel Blaze Candinato](mailto:angelblazecandinato@student.laverdad.edu.ph)**
