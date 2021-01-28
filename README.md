@@ -10,3 +10,4 @@
 - **[Melrose Cortes](mailto:melrosecortes@student.laverdad.edu.ph)**
 - **[Angel Blaze Candinato](mailto:angelblazecandinato@student.laverdad.edu.ph)**
 - **[Carlo Soleta](mailto:carlosoleta@student.laverdad.edu.ph)**
+- **[Dave Sadsad](mailto:davesadsad@student.laverdad.edu.ph)**
