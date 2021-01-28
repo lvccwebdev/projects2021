@@ -18,3 +18,4 @@
 - **[Nehemiah I. Protacio](mailto:nehemiahprotacio@student.laverdad.edu.ph)**
 - **[Pangan Jonathan](mailto:jonthandavidpangan@student.laverdad.edu.ph)**
 - **[Justine Macabuhay](mailto:justinemacabuhay@student.laverdad.edu.ph)**
+- **[Bless Catalan](mailto:blesscatalan@student.laverdad.edu.ph)**
