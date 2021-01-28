@@ -15,3 +15,4 @@
 - **[John Kenneth Rosales](mailto:johnkennethrosales@student.laverdad.edu.ph)**
 - **[Jordan Earl Pascua](mailto:jordanearlpascua@student.laverdad.edu.ph)**
 - **[Madelyn Romero](mailto:madelynromero@student.edu.ph)**
+- **[Nehemiah I. Protacio](mailto:nehemiahprotacio@student.laverdad.edu.ph)**
