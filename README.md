@@ -11,3 +11,4 @@
 - **[Angel Blaze Candinato](mailto:angelblazecandinato@student.laverdad.edu.ph)**
 - **[Carlo Soleta](mailto:carlosoleta@student.laverdad.edu.ph)**
 - **[Dave Sadsad](mailto:davesadsad@student.laverdad.edu.ph)**
+- **[John Kenneth Rosales](mailto:johnkennethrosales@student.laverdad.edu.ph)**
