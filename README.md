@@ -6,3 +6,4 @@
 
 - **[Ma. Ariela Larosa](mailto:ma.arielalaroza@student.laverdad.edu.ph)**
 
+- **[Carlo Soleta](mailto:carlosoleta@student.laverdad.edu.ph)**
