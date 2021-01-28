@@ -3,5 +3,5 @@
 ### Students
 
 - **[Juan dela Cruz](mailto:juan.delacruz@liham.ph)**
-**[Marco Herrera](mailto:marcoherrera@student.edu.ph)**
+**[Jordan Earl Pascua](mailto:jordanearlpascua@student.laverdad.edu.ph)**
 
