@@ -22,4 +22,3 @@
 -   **[Pangan Jonathan](mailto:jonthandavidpangan@student.laverdad.edu.ph)**
 -   **[Justine Macabuhay](mailto:justinemacabuhay@student.laverdad.edu.ph)**
 -   **[Bless Catalan](mailto:blesscatalan@student.laverdad.edu.ph)**
--   **[Jerome Almoguera](mailto:jeromealmoguera@student.laverdad.edu.ph)**
