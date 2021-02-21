@@ -3,6 +3,9 @@
 ### Students
 
 -   **[Juan dela Cruz](mailto:juan.delacruz@liham.ph)**
+-   **[Marco Herrera](mailto:marcoherrera@student.edu.ph)**
+-   **[Angel Blaze Candinato](mailto:angelblazecandinato@student.laverdad.edu.ph)**
+-   **[Juan dela Cruz](mailto:juan.delacruz@liham.ph)**
 -   **[Andrea Maurice De Guzman](mailto:andreamauricedg@gmail.com)**
 -   **[Jerome Almoguera](mailto:jeromealmoguera@student.laverdad.edu.ph)**
 -   **[Daniel John C. Saballa](mailto:danieljohnsaballa@student.laverdad.edu.ph)**
@@ -23,8 +26,4 @@
 -   **[Jehu Casimiro](mailto:jehucasimiro@student.laverdad.edu.ph)**
 -   **[Jomar Benitez](mailto:jomarbenitez@student.laverdad.edu.ph) **
 -   **[Jared Galzote](mailto:jaredgalzote@student.laverdad.edu.ph) **
-   
-
--    **[Jared Galzote](mailto:jaredgalzote@student.laverdad.edu.ph)**
 -   **[Erolle Jenfree Magulod](mailto:erollejenfreemagulod@student.laverdad.edu.ph)**
- 
