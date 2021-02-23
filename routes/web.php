@@ -13,6 +13,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', 'App\Http\Controllers\HomeController@index');
-Route::get('/greet/{name}', 'App\Http\Controllers\HomeController@greet');
-Route::get('/double-number/{number?}', 'App\Http\Controllers\HomeController@doubleNumber');
+Route::get('/', function () {
+    return view('welcome');
+});
+
+Route::get('/dashboard', function () {
+    return view('dashboard');
+})->middleware(['auth'])->name('dashboard');
+
+require __DIR__.'/auth.php';
