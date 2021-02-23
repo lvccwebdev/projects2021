@@ -8,7 +8,7 @@ class HomeController extends Controller
 {
     public function index()
     {
-        return 'Foo';
+        return view('home');
     }
 
     public function doubleNumber($number = 0)
@@ -20,7 +20,8 @@ class HomeController extends Controller
     {
         $age = 100;
         // return view('greeting', [
-        //     'name' => $name
+        //     'name' => $name,
+        //     'age' => $age
         // ]);
         return view('greeting', compact('name', 'age'));
     }
