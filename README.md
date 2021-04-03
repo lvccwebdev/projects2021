@@ -28,3 +28,4 @@
 -   **[Jared Galzote](mailto:jaredgalzote@student.laverdad.edu.ph) **
 -   **[Erolle Jenfree Magulod](mailto:erollejenfreemagulod@student.laverdad.edu.ph)**
 -   **[Ace Icban](mailto:aceicban@student.laverdad.edu.ph)**
+-   **[Ace Icban](mailto:aceicban@student.laverdad.edu.ph)**
