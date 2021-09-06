@@ -24,8 +24,8 @@
 -   **[Justine Macabuhay](mailto:justinemacabuhay@student.laverdad.edu.ph)**
 -   **[Bless Catalan](mailto:blesscatalan@student.laverdad.edu.ph)**
 -   **[Jehu Casimiro](mailto:jehucasimiro@student.laverdad.edu.ph)**
--   **[Jomar Benitez](mailto:jomarbenitez@student.laverdad.edu.ph) **
--   **[Jared Galzote](mailto:jaredgalzote@student.laverdad.edu.ph) **
+-   **[Jomar Benitez](mailto:jomarbenitez@student.laverdad.edu.ph)**
+-   **[Jared Galzote](mailto:jaredgalzote@student.laverdad.edu.ph)**
 -   **[Daniel Emilli Gaspar](mailto:danielemilligaspar@student.laverdad.edu.ph)**
 -   **[Erolle Jenfree Magulod](mailto:erollejenfreemagulod@student.laverdad.edu.ph)**
 -   **[Ace Icban](mailto:aceicban@student.laverdad.edu.ph)**
